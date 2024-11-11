@@ -1,0 +1,31 @@
+Title,Created At,Author
+Reapply "Update database",2024-11-11T02:23:50Z,abnegate
+Database worker errors,2024-11-07T12:30:07Z,fogelito
+feat: realtime ping pong,2024-11-07T11:06:37Z,TorstenDittmann
+Feat bulk deletes,2024-11-07T03:37:15Z,PineappleIOnic
+chore(deps-dev): bump twig/twig from 3.14.0 to 3.14.1,2024-11-06T19:55:21Z,dependabot[bot]
+Delete rules when site or deployment is deleted,2024-11-06T18:16:47Z,vermakhushboo
+chore(deps-dev): bump symfony/process from 7.1.3 to 7.1.7,2024-11-06T16:14:42Z,dependabot[bot]
+Fix: bandwidth calculation,2024-11-06T11:31:26Z,Meldiron
+feat: update API endpoint in the code examples,2024-11-06T11:08:45Z,christyjacob4
+Fix: Preview domains locally,2024-11-06T10:53:41Z,Meldiron
+Use sizeActual instead for file storage usage,2024-11-05T03:27:08Z,lohanidamodar
+feat: Warn if null or empty key is passed,2024-10-30T21:05:20Z,patHyatt
+Fix 2365 Oauth2 does not add port number to uri,2024-10-29T20:40:48Z,AryanSwaroop
+feat: insights,2024-10-27T10:48:58Z,TorstenDittmann
+Create README-ES.md (Spanish/Español),2024-10-27T10:42:47Z,DH-555
+fix refreshToken missing in google oauth,2024-10-26T11:44:15Z,Shaik-Sirajuddin
+Feat sites,2024-10-25T16:48:40Z,vermakhushboo
+make view api use file cache,2024-10-25T15:39:11Z,shimonewman
+Update CONTRIBUTING.md,2024-10-24T16:27:36Z,raman04-byte
+fix: createuser... endpoints return a vague server error when null name is provided,2024-10-24T09:49:16Z,Shaik-Sirajuddin
+📚 Documentation: Deprecation of ${workspaceRoot} in VSCode debug config for XDebug setup. #8814,2024-10-22T12:22:39Z,Kraftsman1
+feat: move certificate generation to Adapter,2024-10-22T11:57:40Z,basert
+Memcached for `/view` endpoint,2024-10-20T12:31:30Z,ItzNotABug
+feat: custom registrar,2024-10-18T19:45:26Z,TorstenDittmann
+feat: add health-check that monitores pending certificates queue,2024-10-18T10:58:12Z,basert
+Rewrite function variables endpoints with http syntax,2024-10-14T15:49:20Z,vermakhushboo
+update docker image to use the latest image tag,2024-10-14T10:20:31Z,egyleader
+Feat migration,2024-10-14T01:29:38Z,abnegate
+Reduce builds usage storage,2024-10-10T19:40:35Z,shimonewman
+example: compose files,2024-10-09T10:20:00Z,TorstenDittmann
