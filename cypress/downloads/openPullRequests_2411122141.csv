@@ -1,9 +1,12 @@
 Title,Created At,Author
+Feat: Bulk Create Documents,2024-11-13T00:22:54Z,PineappleIOnic
+chore(deps-dev): bump twig/twig from 3.14.0 to 3.14.2,2024-11-12T19:49:08Z,dependabot[bot]
+feat: add telemetry,2024-11-12T09:45:17Z,basert
+Send migration errors individually,2024-11-12T02:30:25Z,PineappleIOnic
+Add git commit author avatar to deployments,2024-11-11T19:11:34Z,vermakhushboo
+Feat bulk updates,2024-11-11T06:29:28Z,PineappleIOnic
 Reapply "Update database",2024-11-11T02:23:50Z,abnegate
-Database worker errors,2024-11-07T12:30:07Z,fogelito
-feat: realtime ping pong,2024-11-07T11:06:37Z,TorstenDittmann
 Feat bulk deletes,2024-11-07T03:37:15Z,PineappleIOnic
-chore(deps-dev): bump twig/twig from 3.14.0 to 3.14.1,2024-11-06T19:55:21Z,dependabot[bot]
 Delete rules when site or deployment is deleted,2024-11-06T18:16:47Z,vermakhushboo
 chore(deps-dev): bump symfony/process from 7.1.3 to 7.1.7,2024-11-06T16:14:42Z,dependabot[bot]
 Fix: bandwidth calculation,2024-11-06T11:31:26Z,Meldiron
@@ -26,6 +29,3 @@ feat: custom registrar,2024-10-18T19:45:26Z,TorstenDittmann
 feat: add health-check that monitores pending certificates queue,2024-10-18T10:58:12Z,basert
 Rewrite function variables endpoints with http syntax,2024-10-14T15:49:20Z,vermakhushboo
 update docker image to use the latest image tag,2024-10-14T10:20:31Z,egyleader
-Feat migration,2024-10-14T01:29:38Z,abnegate
-Reduce builds usage storage,2024-10-10T19:40:35Z,shimonewman
-example: compose files,2024-10-09T10:20:00Z,TorstenDittmann

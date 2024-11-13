@@ -16,7 +16,7 @@ This project contains an end-to-end testing setup using Cypress for various envi
   
   Clone the repository
     
-    git clone https://github.com/your-username/challenge.git
+    git clone https://github.com/JuanDiSosa/challenge.git
     
     cd challenge
     

@@ -9,7 +9,9 @@ describe('Test Case 4: Open Pull Requests', () => {
       }));
       const csvContent = 'Title,Created At,Author\n' +
         prData.map(pr => `${pr.title},${pr.created_at},${pr.author}`).join('\n');
-      cy.writeFile('cypress/downloads/open_pull_requests.csv', csvContent)
+      const now = new Date();
+      const timestamp = `${now.getFullYear().toString().slice(2)}${(now.getMonth() + 1).toString().padStart(2, '0')}${now.getDate().toString().padStart(2, '0')}${now.getHours().toString().padStart(2, '0')}${now.getMinutes().toString().padStart(2, '0')}`;
+      cy.writeFile('cypress/downloads/openPullRequests_' +timestamp+'.csv' , csvContent)
     });
   });
 });
